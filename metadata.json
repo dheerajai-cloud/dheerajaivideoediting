@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Cut - AI Video & Photo Studio",
+  "description": "Professional AI-powered video and image studio for high-res photo editing, beat-synced video montage creation, cinematic filters, dual-image stitching, and prompt-driven video direction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
